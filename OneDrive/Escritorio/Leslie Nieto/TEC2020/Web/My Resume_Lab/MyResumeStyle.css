@@ -1,0 +1,45 @@
+body {
+ background-color: cornsilk;
+}
+#Adress1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-stretch: narrower;
+    color: navy;
+}
+ .Image {
+     position: relative;
+     left:45%;
+     border: 1px solid navy;
+     border-radius: 5px;
+     height:100px;
+     width:150px;
+
+}
+h1{
+    font-family:Sofia;
+}
+
+h1.Design {
+
+    Text-align: center;
+    font-family: Sofia,sans-serif;
+    color: antiquewhite;
+}
+
+h2{
+    color:darkblue;
+}
+
+footer {
+    position:fixed;
+    Bottom:0px;
+    Right:0px;
+    box-sizing: border-box;
+    border:1px solid darkblue;
+    color: navy;
+    background-color: antiquewhite;
+}
+*{
+    box-sizing: border-box;
+
+}
